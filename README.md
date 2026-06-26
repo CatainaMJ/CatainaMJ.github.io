@@ -1,6 +1,6 @@
 # Catalina Mora - Data Analysis Portfolio
 
-Welcome to my portfolio! I am currently studying data analysis and passionate about turning raw data into actionable business insights. This space showcases my academic projects and personal experiments, focusing on data cleaning, exploratory analysis, and interactive visualization..
+Welcome to my portfolio! I am currently studying data analysis and passionate about turning raw data into actionable business insights. This space showcases my academic projects and personal experiments, focusing on data cleaning, exploratory analysis, and interactive visualization.
 
 ## About This Portfolio Template
 
