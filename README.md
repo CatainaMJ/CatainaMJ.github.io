@@ -1,6 +1,6 @@
 # Catalina Mora - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome to my portfolio! I am currently studying data analysis and passionate about turning raw data into actionable business insights. This space showcases my academic projects and personal experiments, focusing on data cleaning, exploratory analysis, and interactive visualization..
 
 ## About This Portfolio Template
 
@@ -12,7 +12,7 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+Here, I'll be uploading and updating my future projects as the course goes on.
 
 ### Project Title One
 *A brief description of your project, the tools used, and the key insights derived.*
@@ -28,10 +28,10 @@ This template is set up to showcase your best work. You can easily customize the
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Power BI, Tableau
+- **Data Analysis**: SQL, Python (Pandas), Excel
+- **Data Modeling**: Power Query
+- **Tools**: Power BI Service
 
 ## 💡 How to Use This Template
 
